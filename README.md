@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesufemi Omitogun
 - 👀 I’m interested in Computer Science, Electronics and Software Engineering
-- 🌱 I’m currently learning C and Python
+- 🌱 I’m currently learning C, Python and DevOps
 - 💞️ I’m looking to collaborate on projects to help my engineering journey
 - 📫 How to reach me (+234)-8136782076; omitogunjesufemi@gmail.com
 
